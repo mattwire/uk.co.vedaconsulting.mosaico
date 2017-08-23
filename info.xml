@@ -11,11 +11,11 @@
   <urls>
     <url desc="Main Extension Page">https://github.com/veda-consulting/uk.co.vedaconsulting.mosaico</url>
     <url desc="Documentation">https://civicrm.org/blogs/parvez/a-new-beginning-for-civimail</url>
-    <url desc="Support">http://vedaconsulting.co.uk</url>
+    <url desc="Support">https://www.mjwconsult.co.uk</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
-  <releaseDate>2017-05-11-</releaseDate>
-  <version>2.0-beta3</version>
+  <releaseDate>2017-08-23</releaseDate>
+  <version>2.0-beta3-mjwconsult-1</version>
   <develStage>beta</develStage>
   <compatibility>
     <ver>4.7</ver>
