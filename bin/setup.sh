@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-DEFAULT_MOSAICO_BRANCH="v0.16-civicrm-1"
+DEFAULT_MOSAICO_BRANCH="master"
 EXTROOT=$(cd `dirname $0`/..; pwd)
 EXTKEY="uk.co.vedaconsulting.mosaico"
 XMLBUILD="$EXTROOT/build/xml/schema"
